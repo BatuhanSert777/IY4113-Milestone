@@ -3,7 +3,7 @@
 data/
 out/
 reports/
-src.zip
+*.zip
 ~$*
 *.xlsx
 
