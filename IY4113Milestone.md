@@ -55,8 +55,6 @@ In this project, I create a Java console application called CityRide Lite to hel
 
 ## Gantt Chart
 
-![Gantt Chart](/Users/batuhansert/Desktop/IY4113/gantt.png)
-
 | Week   | Activity              |
 | ------ | --------------------- |
 | Week 1 | Analyse requirements  |
@@ -66,9 +64,7 @@ In this project, I create a Java console application called CityRide Lite to hel
 | Week 5 | Testing and debugging |
 | Week 6 | Final documentation   |
 
-
-
-
+![Screenshot 2026-01-25 at 18.01.59.png](/Users/batuhansert/Desktop/Screenshot%202026-01-25%20at%2018.01.59.png)
 
 ---
 

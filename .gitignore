@@ -6,3 +6,6 @@ reports/
 src.zip
 ~$*
 *.xlsx
+
+.idea/
+*.iml
